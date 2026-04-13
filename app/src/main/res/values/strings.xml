@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppNote</string>
+    <string name="mynotee">mynote</string>
+    <string name="developed_by">developed_by</string>
+    <string name="maria_amp_aya">maria_amp_aya</string>
+    <string name="your_simple_way_to_stay_organized">your_simple_way_to_stay_organized</string>
+    <string name="todo">TODO</string>
+    <string name="mynote">mynote</string>
+</resources>

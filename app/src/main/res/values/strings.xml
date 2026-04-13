@@ -6,4 +6,10 @@
     <string name="your_simple_way_to_stay_organized">your_simple_way_to_stay_organized</string>
     <string name="todo">TODO</string>
     <string name="mynote">mynote</string>
+    <string name="join_mynote_and_start_organizing">join MyNote and start organizing</string>
+    <string name="create_account">create_account</string>
+    <string name="createe_account">create account</string>
+    <string name="name">Name</string>
+    <string name="passsword">password</string>
+    <string name="already_have_an_account_login">already have an account? Login</string>
 </resources>
